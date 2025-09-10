@@ -1,6 +1,6 @@
 # Pranav Gupta's Projects
 
-A collection of fun and interactive projects built with HTML, CSS, and JavaScript.
+A collection of fun and interactive projects built with HTML, CSS, and JavaScript and React.
 
 ---
 
@@ -15,14 +15,14 @@ A classic **Tic-Tac-Toe** game where two players can play against each other.
 
 ---
 
-## 2. Music Player
-A modern **Music Player** to play your favorite songs online.  
+## 2. Interactive Quiz
+An **Interactive Quiz** app with multiple-choice questions.  
 **Features:**
-- Play, pause, skip, and shuffle songs
-- Playlist support
-- Interactive UI  
+- Timer-based quiz
+- Score calculation
+- Multiple topics support  
 
-🔗 [View on GitHub](https://github.com/zero9179/Music-Player)
+🔗 [View on GitHub](https://github.com/zero9179/Interactive-Quiz)
 
 ---
 
@@ -48,14 +48,16 @@ A responsive **Image Slider** for showcasing images with smooth transitions.
 
 ---
 
-## 5. Interactive Quiz
-An **Interactive Quiz** app with multiple-choice questions.  
-**Features:**
-- Timer-based quiz
-- Score calculation
-- Multiple topics support  
 
-🔗 [View on GitHub](https://github.com/zero9179/Interactive-Quiz)
+---
+## 5. Music Player
+A modern **Music Player** to play your favorite songs online.  
+**Features:**
+- Play, pause, skip, and shuffle songs
+- Playlist support
+- Interactive UI  
+
+🔗 [View on GitHub](https://github.com/zero9179/Music-Player)
 
 ---
 
