@@ -13,6 +13,8 @@ A classic **Tic-Tac-Toe** game where two players can play against each other.
 
 🔗 [View on GitHub](https://github.com/zero9179/tic-tac-toe)
 
+🔗 [Live link](https://zero9179.github.io/tic-tac-toe/)
+
 ---
 
 ## 2. Interactive Quiz
