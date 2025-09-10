@@ -47,9 +47,6 @@ A responsive **Image Slider** for showcasing images with smooth transitions.
 🔗 [View on GitHub](https://github.com/zero9179/image-Slider)
 
 ---
-
-
----
 ## 5. Music Player
 A modern **Music Player** to play your favorite songs online.  
 **Features:**
