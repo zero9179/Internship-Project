@@ -13,7 +13,7 @@ A classic **Tic-Tac-Toe** game where two players can play against each other.
 
 🔗 [View on GitHub](https://github.com/zero9179/tic-tac-toe)
 
-🔗 [Live link](https://zero9179.github.io/tic-tac-toe/)
+🌐 [Live Demo](https://zero9179.github.io/tic-tac-toe/)
 
 ---
 
@@ -26,6 +26,8 @@ An **Interactive Quiz** app with multiple-choice questions.
 
 🔗 [View on GitHub](https://github.com/zero9179/Interactive-Quiz)
 
+🌐 [Live Demo](https://interactive-quiz-dusky.vercel.app/)
+
 ---
 
 ## 3. Memory Cards Game
@@ -36,6 +38,8 @@ A **Memory Card Game** where players match pairs of cards.
 - Fun and interactive gameplay  
 
 🔗 [View on GitHub](https://github.com/zero9179/Memory-Cards)
+
+🌐 [Live Demo](https://zero9179.github.io/Memory-Cards/)
 
 ---
 
@@ -48,6 +52,8 @@ A responsive **Image Slider** for showcasing images with smooth transitions.
 
 🔗 [View on GitHub](https://github.com/zero9179/image-Slider)
 
+🌐 [Live Demo](https://zero9179.github.io/image-Slider/)
+
 ---
 ## 5. Music Player
 A modern **Music Player** to play your favorite songs online.  
@@ -57,6 +63,8 @@ A modern **Music Player** to play your favorite songs online.
 - Interactive UI  
 
 🔗 [View on GitHub](https://github.com/zero9179/Music-Player)
+
+🌐 [Live Demo]()
 
 ---
 
